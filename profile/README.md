@@ -1,12 +1,12 @@
-# H4-POC Organization
+# SquidFlow Organization
 
-Welcome to H4-POC Organization! 👋
+Welcome to SquidFlow Organization! 👋
 
-> H4 represents the next iteration, the next possibility, and a new exploration following the H3 system.
+> SquidFlow represents the next iteration, the next possibility, and a new exploration.
 
 ## About Us
 
-H4-POC is an experimental project aimed at improving GitOps workflows. As platform usage within organizations evolves from initial developer-centric operations to include team members without extensive ops background, we recognized the need for a more intuitive experience.
+SquidFlow is an experimental project aimed at improving GitOps workflows. As platform usage within organizations evolves from initial developer-centric operations to include team members without extensive ops background, we recognized the need for a more intuitive experience.
 
 Our goal is to enhance the self-service platform experience by:
 - Making configuration fields self-explanatory
@@ -17,15 +17,15 @@ This project serves as a proof of concept for these improvements, primarily deve
 
 ## Main Projects
 
-- [service](https://github.com/h4-poc/service) - H4 Core Platform Service
+- [service](https://github.com/SquidFlow/service) - SquidFlow Core Platform Service
   - Full-stack project containing both frontend and backend components
   - Includes 2 binary executables and a web frontend
   - All components are available as Docker images in GitHub Container Registry
-- [argocd-addon](https://github.com/h4-poc/argocd-addon) - ArgoCD extension that supports hybrid rendering of Kustomize and Helm resources
+- [argocd-addon](https://github.com/SquidFlow/argocd-addon) - ArgoCD extension that supports hybrid rendering of Kustomize and Helm resources
   - Enables seamless integration between Kustomize and Helm deployments
   - Custom plugin for ArgoCD to enhance manifest rendering capabilities
-- [gitops](https://github.com/h4-poc/gitops) - Default GitOps metadata repository for deployment configurations
-- [demo-app](https://github.com/h4-poc/demo-app) - Sample application for deployment demonstration
+- [gitops](https://github.com/SquidFlow/gitops) - Default GitOps metadata repository for deployment configurations
+- [demo-app](https://github.com/SquidFlow/demo-app) - Sample application for deployment demonstration
 
 ## Contact Us
 
